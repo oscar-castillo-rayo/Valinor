@@ -4,7 +4,7 @@ int main() {
     int nota;
     std::cout << "Digite la nota " << std::endl;
     std::cin >> nota;
-    if (nota >= 70) {
+    if (nota >= 65) {
         std::cout << "Usted ha aprobado";
     }
     else {
